@@ -1,0 +1,17 @@
+Complete the following
+https://www.marcobehler.com/guides/spring-security
+Search page with this: Spring Security & Spring Boot [Continue from here]
+
+The UserDetailsService interface is used to retrieve user-related data. It has one method named loadUserByUsername() which can be overridden to 
+customize the process of finding the user. It is used by the DaoAuthenticationProvider to load details about the user during authentication
+
+
+
+
+
+
+
+
+
+
+
